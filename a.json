@@ -1,0 +1,7 @@
+{
+    "component": "firewall",
+    "version": 2,
+    "comment": "My comment",
+    "cost": 0,
+    "count": 1
+}
